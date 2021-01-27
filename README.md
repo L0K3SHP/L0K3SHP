@@ -1,8 +1,8 @@
 ### Hi there, I'm Lokesh 
 
-## I'm a Student, Developer, and WaanaBeHacker !!
+## I'm a Student, Developer, and <span style="color:blue"> *WaanaBeHacker* </span> !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning something weird
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
