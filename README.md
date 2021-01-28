@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and !!
 ```diff
-+Pentester
++ Pentester
 ```
 
 - 🌱 I’m currently learning something weird
