@@ -1,9 +1,9 @@
 ### Hi there, I'm Lokesh 
 
-## I'm a Student, Developer, and 
-```diff 
- + WaanaBeHacker  
- ```
+## I'm a Student, Developer, and !!
+```diff
++Pentester
+```
 
 - 🌱 I’m currently learning something weird
 - 👯 I’m looking to collaborate with other content creators
