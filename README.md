@@ -23,7 +23,7 @@
 <img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" />
 <img align="left" alt="Burpsuite" width="26px" src="https://profiles.bugcrowdusercontent.com/avatars/f2dccdc8cfc3bb6fff40310a78c2855a/normal_Burp-Suite-Free-Pro-Crack-is-Here-Latest.png" />
 <img align="left" alt="Kali Linux" width="26px" src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" />
-<img align="left" alt="Parrot OS" width="26px" src="https://profiles.bugcrowdusercontent.com/avatars/f2dccdc8cfc3bb6fff40310a78c2855a/normal_Burp-Suite-Free-Pro-Crack-is-Here-Latest.png" />
+<img align="left" alt="Parrot OS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 
 
 <br />
