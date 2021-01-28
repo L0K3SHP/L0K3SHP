@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me: 
-[<img align="left" alt="twitter/LokeshP41508377" width="22px" style="color:blue" target="__blank__"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="twitter/LokeshP41508377" width="22px" style="color:blue" target="__blank__" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin/lokesh-patil-5809161a4" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
