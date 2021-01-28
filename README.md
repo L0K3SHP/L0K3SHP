@@ -1,10 +1,11 @@
 ### Hi there, I'm Lokesh 
 
-## I'm a Student, Developer, and <span style="color:blue"> WaanaBeHacker </span> !!
+## I'm a Student, Developer, and WaanaBeHacker !!
 
 - 🌱 I’m currently learning something weird
 - 👯 I’m looking to collaborate with other content creators
 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ### Connect with me:
 
 [<img align="left" alt="twitter/LokeshP41508377" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
