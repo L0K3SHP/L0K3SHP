@@ -20,6 +20,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Wireshark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" />
 <img align="left" alt="Burpsuite" width="26px" src="https://profiles.bugcrowdusercontent.com/avatars/f2dccdc8cfc3bb6fff40310a78c2855a/normal_Burp-Suite-Free-Pro-Crack-is-Here-Latest.png" />
+<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/png/512/518/518713.png" />
 <img align="left" alt="Kali Linux" width="26px" src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" />
 <img align="left" alt="Parrot OS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 
