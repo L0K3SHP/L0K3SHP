@@ -28,4 +28,4 @@
 <br />
 
 [twitter]: https://twitter.com/PL0K3SH
-[linkedin]: https://www.linkedin.com/in/lokesh-patil-5809161a4/
+[linkedin]: https://www.linkedin.com/in/lokeshpatil-
